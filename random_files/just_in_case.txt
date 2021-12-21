@@ -1,0 +1,500 @@
+   12  mv Downloads/wallpaper.jpg Pictures/wallpaper.jpg
+   13  wal -i Pictures/wallpaper.jpg 
+   14  sudo pacman -S cairo libxcb python2 xcb-proto xcb-util-image xcb-util-wm xcb-util-xrm jsoncpp
+   15  yay -S polybar-git
+   16  ls
+   17  ls .config/
+   18  ls .config/i3/
+   19  vim .config/i3/config
+   20  ls
+   21  yay -S otf-overpass
+   22  i3-msg reload
+   23  vim .config/i3/config
+   24  i3-msg reload
+   25  git clone https://github.com/TbrahimButt/direwolf-arch-rice.git
+   26  git clone https://github.com/IbrahimButt/direwolf-arch-rice.git
+   27  ls
+   28  ls direwolf-arch-rice/
+   29  vim .config/i3/config
+   30  ls -al
+   31  cp -r ~/direwolf-arch-rice/.config/polybar/ .config/
+   32  ls .config/
+   33  cp -r ~/direwolf-arch-rice/.Xresources .
+   34  xrdb .Xresources 
+   35  wal -i Pictures/wallpaper.jpg 
+   36  i3-msg reload
+   37  sudo pacman -S w3m
+   38  ls .config/ranger/
+   39  cp -r direwolf-arch-rice/.config/ranger/ .config/ranger/
+   40  ls .config/ranger/
+   41  rm -rf .config/ranger/
+   42  ls .config/
+   43  cp -r direwolf-arch-rice/.config/ranger/ .config/
+   44  ls .config/
+   45  ls .config/ranger/
+   46  vim .config/ranger/scope.sh 
+   47  ranger --copy-config=scope
+   48  ranger
+   49  find / -name libuv
+   50  sudo find / -name libuv
+   51  sudo pacman -S libxcb
+   52  ranger
+   53  neofetch --w3m --source Pictures/wallpaper.jpg 
+   54  sudo pacman -S neofetch
+   55  neofetch --w3m --source Pictures/wallpaper.jpg 
+   56  clear
+   57  neofetch
+   58  vim .config/neofetch/config.conf 
+   59  polybar bar
+   60  polybar bar
+   61  cd /usr/local/
+   62  ls
+   63  cd ../lib
+   64  ls
+   65  ls | grep lin
+   66  ls | grep lib
+   67  ls | grep libu
+   68  sudo pacman -S cairo libxcb python2 xcb-proto xcb-util-image xcb-util-wm xcb-util-xrm jsoncpp
+   69  polybar bar
+   70  yay -R polybar
+   71  history
+   72  yay -R polybar-git
+   73  yay -S polybar
+   74  polybar bar
+   75  xrandr
+   76  cd ~
+   77  polybar bar
+   78  vim .config/i3/config 
+   79  history
+   80  vim .config/polybar/launch.sh 
+   81  vim .config/polybar/config 
+   82  vim .config/polybar/config 
+   83  rander
+   84  ranger
+   85  vim .config/i3/config 
+   86  i3-msg reload
+   87  vim .config/i3/config 
+   88  ls -al
+   89  vim .Xresources 
+   90  i3-msg reload
+   91  vim .Xresources 
+   92  i3-msg reload
+   93  vim .config/i3/config 
+   94  sudo pacman -Qe
+   95  sudo pacman -S i3
+   96  sudo pacman -S ttf-dejavu
+   97  startx
+   98  poweroff
+   99  sudo poweroff
+  100  wal -i Pictures/wallpaper.jpg 
+  101  xstart
+  102  startx
+  103  vim .config/i3/config 
+  104  reboot
+  105  sudo reboot
+  106  startx
+  107  sudo pacman -R i3-wm
+  108  sudo pacman -R i3-gaps
+  109  sudo pacman -Syu i3-gaps
+  110  sudo reboot
+  111  sudo pacman -Qe
+  112  vim .config/i3/config 
+  113  i3-msg restart
+  114  vim .Xresources 
+  115  history | grep .Xresources 
+  116  xrdb .Xresources 
+  117  i3-msg restart
+  118  history | grep .Xresources 
+  119  xrdb .Xresources 
+  120  vim .Xresources 
+  121  xrdb .Xresources 
+  122  i3-msg restart
+  123  vim .Xresources 
+  124  xrdb .Xresources 
+  125  i3-msg restart
+  126  vim .Xresources 
+  127  ls
+  128  sudo pacman -S coreshot
+  129  yay -S coreshot
+  130  yay -R coreshot
+  131  ls
+  132  neofetch
+  133  neofetch
+  134  clear
+  135  neofetch
+  136  clear
+  137  neofetch 
+  138  clear
+  139  neofetch 
+  140  man reflector
+  141  sudo pacman -S deepin-screenshot
+  142  clear
+  143  sudo pacman -S deepin-screenshot
+  144  sudo pacman -Syu deepin-screenshot
+  145  sudo pacman -Sy
+  146  sudo pacman -Syu deepin-screenshot
+  147  sudo pacman -S reflector
+  148  vim /etc/xdg/reflector/reflector.conf 
+  149  s
+  150  clear
+  151  ls
+  152  sudo systemctl start reflector
+  153  sudo pacman -Syu deepin-screenshot
+  154  sudo pacman -S escrotum
+  155  yay -S escrotum
+  156  ls
+  157  ls
+  158  rm 2021-12-20-174109_1920x1080_escrotum.png 
+  159  clear
+  160  neofetch
+  161  clear
+  162  neofetch
+  163  clera
+  164  clear
+  165  ks
+  166  ls
+  167  mv 2021-12-20-174500_1920x1080_escrotum.png Pictures/ss.jpg
+  168  rander
+  169  ranger
+  170  ranger
+  171  startx
+  172  sudo reboot
+  173  poweroff
+  174  sudo poweroff
+  175  sudo pacman -S gpm
+  176  sudo pacman -R gpm
+  177  history
+  178  startx
+  179  ls
+  180  cd Downloads/
+  181  ls
+  182  mv 61c1396412919.jpg ../Pictures/wallpaper_succ.jpg
+  183  mv wallpaper_cactus.jpg ../Pictures/wallpaper_cactus.jpg
+  184  ls
+  185  cd ../Pictures/
+  186  ranger
+  187  wal -i wallpaper_succ.jpg 
+  188  i3
+  189  wal -i wallpaper_cactus.jpg 
+  190  clear
+  191  ranger
+  192  ls 
+  193  cd ~
+  194  vim .config/i3/config 
+  195  wal -i wallpaper_succ.jpg 
+  196  cd Pictures/
+  197  wal -i wallpaper_succ.jpg 
+  198  cd 
+  199  vim .config/i3/config 
+  200  vim .Xresources 
+  201  history | grep .Xresources
+  202  xrdb .Xresources
+  203  history | grep i3
+  204  i3-msg restart
+  205  wal -i Pictures/wallpaper_succ.jpg 
+  206  vim .config/i3/config 
+  207  vim .Xresources 
+  208  xrdb .Xresources
+  209  i3-msg restart
+  210  vim .Xresources 
+  211  xrdb .Xresources
+  212  i3-msg restart
+  213  vim .Xresources 
+  214  xrdb .Xresources
+  215  history
+  216  vim .Xresources 
+  217  cd .config/polybar/
+  218  cd ..
+  219  mkdir old_polybar
+  220  cp -r polybar/ old_polybar/
+  221  ls old_polybar/
+  222  rm -rf old_polybar/*
+  223  ls old_polybar/
+  224  cp -r polybar/* old_polybar/
+  225  ls old_polybar/
+  226  rm -rf polybar/*
+  227  cd ..
+  228  git clone https://github.com/snickerton/DotfilesSucculent.git
+  229  ls nvim
+  230  nvim
+  231  sudo pacman -S neovim
+  232  sudo pacman -Syu neovim
+  233  ping archlinux.org
+  234  sudo systemctl start reflector
+  235  sudo pacman -Syu neovim
+  236  ls
+  237  vim /etc/xdg/reflector/reflector.conf 
+  238  vim /etc/pacman.d/mirrorlist 
+  239  sudo pacman -Syu neovim
+  240  vim /etc/pacman.d/mirrorlist 
+  241  sudo pacman-key populate archlinux
+  242  sudo pacman-key populate archlinux
+  243  sudo pacman-key --populate archlinux
+  244  sudo pacman -Syu neovim
+  245  nvim .Xresources 
+  246  xrdb .Xresources
+  247  vim /etc/xdg/reflector/reflector.conf 
+  248  vim /etc/pacman.d/mirrorlist 
+  249  vim /etc/pacman.d/mirrorlist 
+  250  i3-msg restart
+  251  xrdb .Xresources
+  252  nvim .Xresources 
+  253  xrdb .Xresources
+  254  nvim .Xresources 
+  255  xrdb .Xresources
+  256  nvim .Xresources 
+  257  xrdb .Xresources
+  258  nvim .Xresources 
+  259  xrdb .Xresources
+  260  nvim .Xresources 
+  261  xrdb .Xresources
+  262  nvim .Xresources 
+  263  nvim .Xresources 
+  264  xrdb .Xresources
+  265  nvim .Xresources 
+  266  ls
+  267  cp DotfilesSucculent/.config/polybar/* .config/polybar/
+  268  ls .config/polybar/
+  269  nvim .Xresources 
+  270  ls -al
+  271  nvim .config/i3/config 
+  272  nvim .Xresources 
+  273  xrdb .Xresources
+  274  i3-msg restart
+  275  polybar 
+  276  polybar PolybarTony
+  277  yay -R polybar
+  278  yay -S polybar-git
+  279  polybar PolybarTony
+  280  yay -R polybar-git
+  281  yay -S polybar
+  282  vim .config/i3/config 
+  283  polybar PolybarTony
+  284  yay -Syu polybar
+  285  sudo pacman -S jsoncpp
+  286  polybar PolybarTony
+  287  reboot
+  288  sudo reboot
+  289  nvim DotfilesSucculent/_Xresources 
+  290  nvim .config/polybar/launch.sh 
+  291  nvim .config/polybar/config 
+  292  startx
+  293   sudo reboot
+  294  sudo poweroff
+  295  startx
+  296  nvim .config/
+  297  mkdir .config/new_polybar
+  298  cp .config/polybar/* .config/new_polybar/
+  299  ls .config/new_polybar/
+  300  rm -rf .config/polybar/*
+  301  mv .config/old_polybar/* .config/polybar/
+  302  ls .config/old_polybar/
+  303  cd .co
+  304  cd .config/
+  305  ls
+  306  rmdir old_polybar/
+  307  ls polybar/
+  308  i3-msg restart
+  309  clear
+  310  reboot
+  311  sudo reboot
+  312  speaker-test -c2
+  313  clear
+  314  alsamixer
+  315  sudo pacman -S xclip
+  316  neofetch
+  317  clear
+  318  ranger
+  319  neofetch
+  320  neofetch
+  321  neofetch
+  322  startx
+  323  sudo reboot
+  324  vim .config/
+  325  vim .config/new_polybar/config 
+  326  vim .config/new_polybar/config 
+  327  nvim .config/new_polybar/config 
+  328  cd .config/
+  329  rm -rf new_polybar/
+  330  ranger
+  331  clear
+  332  cd 
+  333  ls
+  334  cd DotfilesSucculent/
+  335  l
+  336  ls
+  337  vim _Xresources 
+  338  nvim _Xresources 
+  339  vim .config/polybar/config 
+  340  nvim .config/polybar/config 
+  341  msg-i3 restart
+  342  i3-msg restart
+  343  clear
+  344  vim .Xresources 
+  345  nvim .Xresources 
+  346  history | grep Xresources
+  347  xrdb .Xresources 
+  348  nvim .Xresources 
+  349  xrdb .Xresources 
+  350  nvim .Xresources 
+  351  xrdb .Xresources 
+  352  vim .Xresources 
+  353  nvim .config/i3/config 
+  354  i3-msg restart
+  355  nvim .config/i3/config 
+  356  i3-msg restart
+  357  neofetch
+  358  ranger
+  359  ranger
+  360  clear
+  361  neofetch --w3m --source Pictures/wallpaper_succ.jpg 
+  362  neofetch --w3m --source Pictures/wallpaper_succ.jpg 
+  363  clear
+  364  neofetch --w3m --source Pictures/wallpaper_succ.jpg 
+  365  clear
+  366  neofetch --w3m --source Pictures/wallpaper_succ.jpg 
+  367  ranger
+  368  vim .config/
+  369  ranger
+  370  ls
+  371  rm 1
+  372  ls
+  373  mv 2021-12-21-021931_1920x1080_escrotum.png Pictures/ss2.png
+  374  rm 2021-12-21-021605_1920x1080_escrotum.png 2021-12-21-021817_1920x1080_escrotum.png 
+  375  ls
+  376  cd Pictures/
+  377  ls
+  378  clear
+  379  startx
+  380  poweroff
+  381  top
+  382  clear
+  383  sudo pacman -S tlp
+  384  sudo systemctl enable tlp.service
+  385  sudo systemctl start tlp.service
+  386  startx
+  387  sudo pacman -S powertop
+  388  powertop
+  389  sudo powertop
+  390  clear
+  391  ls /sys/class/backlight/
+  392  ls /sys/class/backlight/intel_backlight
+  393  max /sys/class/backlight/intel_backlight/max_brightness 
+  394  cat /sys/class/backlight/intel_backlight/max_brightness 
+  395  cat /sys/class/backlight/intel_backlight/brightness 
+  396  cat 48000 > /sys/class/backlight/intel_backlight/brightness 
+  397  sudo echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  398  echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  399  su root
+  400  sudo echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  401  groups
+  402  echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  403  cat /etc/udev/rules.d/backlight.rules 
+  404  su root
+  405  echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  406  cat /etc/udev/rules.d/backlight.rules 
+  407  su root
+  408  echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  409  sudo echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  410  cat /etc/udev/rules.d/backlight.rules 
+  411  ls /etc/udev/rules.d/
+  412  sudo reboot
+  413  systemctl
+  414  systemctl
+  415  systemctl start tlp.service
+  416  sudo systemctl start tlp.service
+  417  sudo systemctl enable tlp.service
+  418  cat /etc/udev/rules.d/backlight.rules 
+  419  sudo echo 48000 > /sys/class/backlight/intel_backlight/brightness 
+  420  sudo echo 30000 > /sys/class/backlight/intel_backlight/brightness 
+  421  sudo echo 39000 > /sys/class/backlight/intel_backlight/brightness 
+  422  top
+  423  powertop
+  424  sudo powertop
+  425  sudo powertop
+  426  cler
+  427  clear
+  428  sudo powertop
+  429  startx
+  430  yay -S laptop-mode-tools
+  431  nvim /etc/tlp.conf 
+  432  sudo nvim /etc/tlp.conf 
+  433  tlp-stat
+  434  sudo tlp-stat
+  435  sudo poewrtop
+  436  sudo powertop
+  437  nvim .config/i3/config 
+  438  sudo reboot
+  439  sudo systemctl start tlp.service
+  440  powertop
+  441  sudo powertop
+  442  startx
+  443  nvim .config/i3/config 
+  444  sudo powertop
+  445  sudo powertop
+  446  ls /sys/class/power_supply/
+  447  ls /sys/class/power_supply/BAT0
+  448  cat /sys/class/power_supply/BAT0/power/
+  449  cat /sys/class/power_supply/BAT0/charge_now 
+  450  cat /sys/class/power_supply/BAT0/charge_full
+  451  cat /sys/class/power_supply/BAT0/current_now 
+  452  cat /sys/class/power_supply/BAT0/voltage_now 
+  453  sudo powertop
+  454  poweroff
+  455  systemctl
+  456  powertop
+  457  sudopowertop
+  458  sudo powertop
+  459  history
+  460  sudo powertop
+  461  clear
+  462  lscpi -k | grep -A 2 -E "(VGA|3D)"
+  463  lspci -k | grep -A 2 -E "(VGA|3D)"
+  464  sudo pacman -S nviida
+  465  sudo pacman -S nvidia
+  466  sudo reboot
+  467  startx
+  468  startx
+  469  nvidia-xconfig
+  470  sudo nvidia-xconfig
+  471  nvim /etc/X11/xorg.conf
+  472  nvim /etc/X11/xorg.conf
+  473  nvim /etc/X11/xorg.conf
+  474  nvim /etc/X11/xorg.conf
+  475  nvidia-settings
+  476  sudo pacman -S nvidia-settings
+  477  nvidia-settings
+  478  nvim /etc/X11/xorg.conf
+  479  ls /etc/X11/xorg.conf.d/
+  480  ls
+  481  rm /etc/X11/xorg.conf
+  482  sud rm /etc/X11/xorg.conf
+  483  sudo rm /etc/X11/xorg.conf
+  484  nvim .config/polybar/config 
+  485  history
+  486  ls /sys/class/power_supply/BAT0
+  487  ls /sys/class/power_supply/BAT0/power/
+  488  sudo reboot
+  489  ls /sys/class/power_supply/BAT0/
+  490  history
+  491  nvim .config/polybar/config 
+  492  polybar bar
+  493  clear
+  494  nvim .config/polybar/config 
+  495  sudo nvim /etc/tlp.conf 
+  496  git status
+  497  ls
+  498  ls /sys/class/power_supply/BAT0/power/
+  499  history
+  500  cat /sys/class/power_supply/BAT0/power/runtime_status 
+  501  git clone https://github.com/JiaJiunn/dotfiles.git
+  502  ls
+  503  cp .Xresources dotfiles/
+  504  cp -r .config/ dotfiles/
+  505  ls dotfiles/
+  506  cd dotfiles/
+  507  ls -al
+  508  ls .config/
+  509  nvim .Xresources 
+  510  history
+  511  history > just_in_case.txt
